@@ -212,7 +212,7 @@ export default function DashboardPage() {
                 Coherent Dashboard
               </h1>
               <h2 className="text-sm text-black">
-                {dashboardName || 'Sodium Isobutyl Xanthate (SIBX) Market Assessment'}
+                {dashboardName || 'Methyl Isobutyl Carbinol (MICB) Market Assessment'}
               </h2>
             </div>
           </div>

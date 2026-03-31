@@ -50,116 +50,93 @@ function generateLeaf(baseValue, growthRate, isVolume) {
 }
 
 function buildSegments(scale, isVolume) {
-  // Base values differ for value (USD M) vs volume (Tons)
-  const vMult = isVolume ? 1 : 1;
-
-  // By Raw Material Source
-  const byRawMaterial = {
-    "Coal-Based Activated Carbon": {
-      "Bituminous Coal-Based": generateLeaf((isVolume ? 800 : 8.5) * scale, 0.08, isVolume),
-      "Lignite/Sub-Bituminous Coal-Based": generateLeaf((isVolume ? 500 : 5.2) * scale, 0.07, isVolume),
-      "Anthracite Coal-Based": generateLeaf((isVolume ? 300 : 3.5) * scale, 0.06, isVolume)
-    },
-    "Coconut Shell-Based Activated Carbon": generateLeaf((isVolume ? 900 : 10.0) * scale, 0.09, isVolume),
-    "Wood-Based Activated Carbon": generateLeaf((isVolume ? 400 : 4.5) * scale, 0.07, isVolume),
-    "Peat-Based Activated Carbon": generateLeaf((isVolume ? 200 : 2.2) * scale, 0.06, isVolume),
-    "Other Biomass-Based Activated Carbon (Bamboo-Based, etc.)": generateLeaf((isVolume ? 150 : 1.8) * scale, 0.10, isVolume)
+  // By Form (Product Form)
+  const byForm = {
+    "Liquid MIBC – Bulk Supply": generateLeaf((isVolume ? 900 : 10.0) * scale, 0.08, isVolume),
+    "Liquid MIBC – Drummed / Packaged Supply": generateLeaf((isVolume ? 700 : 7.5) * scale, 0.07, isVolume),
+    "Blended Frother Formulations Containing MIBC": generateLeaf((isVolume ? 400 : 4.5) * scale, 0.09, isVolume),
+    "Other Commercial Supply Formats": generateLeaf((isVolume ? 200 : 2.2) * scale, 0.06, isVolume)
   };
 
-  // By Product Form
-  const byProductForm = {
-    "Powdered Activated Carbon (PAC)": generateLeaf((isVolume ? 700 : 7.5) * scale, 0.08, isVolume),
-    "Granular Activated Carbon (GAC)": generateLeaf((isVolume ? 1000 : 11.0) * scale, 0.09, isVolume),
-    "Extruded / Pelletized Activated Carbon (EAC)": generateLeaf((isVolume ? 350 : 4.0) * scale, 0.07, isVolume),
-    "Others (Bead / Spherical Activated Carbon, etc.)": generateLeaf((isVolume ? 150 : 1.8) * scale, 0.06, isVolume)
+  // By Grade
+  const byGrade = {
+    "Technical Grade": generateLeaf((isVolume ? 800 : 8.5) * scale, 0.08, isVolume),
+    "Industrial Grade": generateLeaf((isVolume ? 600 : 6.5) * scale, 0.07, isVolume),
+    "Flotation Reagent Grade": generateLeaf((isVolume ? 500 : 5.5) * scale, 0.09, isVolume),
+    "Other Commercial Grades": generateLeaf((isVolume ? 150 : 1.8) * scale, 0.06, isVolume)
   };
 
-  // By Supply Type
-  const bySupplyType = {
-    "Virgin Activated Carbon": generateLeaf((isVolume ? 1500 : 16.0) * scale, 0.08, isVolume),
-    "Reactivated / Regenerated Activated Carbon": generateLeaf((isVolume ? 700 : 7.0) * scale, 0.10, isVolume)
-  };
-
-  // By Application - Gold Mining should be larger for African countries
-  const isAfrican = true; // we'll handle per-country below but scale is already set
+  // By Application in Gold Mining
   const byApplication = {
-    "Gold Mining": {
-      "Carbon-in-Leach (CIL)": generateLeaf((isVolume ? 600 : 6.5) * scale, 0.09, isVolume),
-      "Carbon-in-Pulp (CIP)": generateLeaf((isVolume ? 500 : 5.5) * scale, 0.08, isVolume),
-      "Carbon-in-Column (CIC)": generateLeaf((isVolume ? 250 : 2.8) * scale, 0.07, isVolume),
-      "Others": generateLeaf((isVolume ? 150 : 1.5) * scale, 0.08, isVolume)
-    },
-    "Water Treatment": {
-      "Potable / Drinking Water Treatment": generateLeaf((isVolume ? 300 : 3.2) * scale, 0.08, isVolume),
-      "Industrial Water Treatment": generateLeaf((isVolume ? 250 : 2.8) * scale, 0.07, isVolume),
-      "Wastewater / Effluent Treatment": generateLeaf((isVolume ? 200 : 2.2) * scale, 0.09, isVolume),
-      "Mine Water Treatment": generateLeaf((isVolume ? 180 : 2.0) * scale, 0.08, isVolume)
-    }
+    "Froth Formation in Flotation": generateLeaf((isVolume ? 700 : 7.5) * scale, 0.08, isVolume),
+    "Froth Stability Control": generateLeaf((isVolume ? 500 : 5.5) * scale, 0.07, isVolume),
+    "Sulphide Mineral Recovery Support": generateLeaf((isVolume ? 450 : 5.0) * scale, 0.09, isVolume),
+    "Flotation Performance Optimization": generateLeaf((isVolume ? 350 : 4.0) * scale, 0.08, isVolume)
+  };
+
+  // By End User
+  const byEndUser = {
+    "Gold Mining Companies": generateLeaf((isVolume ? 800 : 9.0) * scale, 0.08, isVolume),
+    "Mineral Processing Plants": generateLeaf((isVolume ? 600 : 6.5) * scale, 0.07, isVolume),
+    "Reagent Suppliers / Distributors": generateLeaf((isVolume ? 400 : 4.5) * scale, 0.09, isVolume),
+    "Mining Service Contractors": generateLeaf((isVolume ? 250 : 2.8) * scale, 0.06, isVolume)
   };
 
   return {
-    "By Raw Material Source": byRawMaterial,
-    "By Product Form": byProductForm,
-    "By Supply Type": bySupplyType,
-    "By Application": byApplication
+    "By Form": byForm,
+    "By Grade": byGrade,
+    "By Application in Gold Mining": byApplication,
+    "By End User": byEndUser
   };
 }
 
 function buildSpecialSegments(geo, scale, isVolume) {
-  // For Russia and Australia, Gold Mining should be smaller relative to Water Treatment
-  // For African countries, Gold Mining larger
+  // For Russia and Australia, different market dynamics
   const isNonAfrican = (geo === "Russia" || geo === "Australia");
 
   seed = hashCode(geo + (isVolume ? "vol" : "val"));
 
-  const byRawMaterial = {
-    "Coal-Based Activated Carbon": {
-      "Bituminous Coal-Based": generateLeaf((isVolume ? 800 : 8.5) * scale, 0.08, isVolume),
-      "Lignite/Sub-Bituminous Coal-Based": generateLeaf((isVolume ? 500 : 5.2) * scale, 0.07, isVolume),
-      "Anthracite Coal-Based": generateLeaf((isVolume ? 300 : 3.5) * scale, 0.06, isVolume)
-    },
-    "Coconut Shell-Based Activated Carbon": generateLeaf((isVolume ? 900 : 10.0) * scale, 0.09, isVolume),
-    "Wood-Based Activated Carbon": generateLeaf((isVolume ? 400 : 4.5) * scale, 0.07, isVolume),
-    "Peat-Based Activated Carbon": generateLeaf((isVolume ? 200 : 2.2) * scale, 0.06, isVolume),
-    "Other Biomass-Based Activated Carbon (Bamboo-Based, etc.)": generateLeaf((isVolume ? 150 : 1.8) * scale, 0.10, isVolume)
+  // Scaling factors for geographic variation
+  const miningScale = isNonAfrican ? 0.7 : 1.0;
+  const industrialScale = isNonAfrican ? 1.3 : 1.0;
+
+  // By Form (Product Form)
+  const byForm = {
+    "Liquid MIBC – Bulk Supply": generateLeaf((isVolume ? 900 : 10.0) * scale * industrialScale, 0.08, isVolume),
+    "Liquid MIBC – Drummed / Packaged Supply": generateLeaf((isVolume ? 700 : 7.5) * scale, 0.07, isVolume),
+    "Blended Frother Formulations Containing MIBC": generateLeaf((isVolume ? 400 : 4.5) * scale * miningScale, 0.09, isVolume),
+    "Other Commercial Supply Formats": generateLeaf((isVolume ? 200 : 2.2) * scale, 0.06, isVolume)
   };
 
-  const byProductForm = {
-    "Powdered Activated Carbon (PAC)": generateLeaf((isVolume ? 700 : 7.5) * scale, 0.08, isVolume),
-    "Granular Activated Carbon (GAC)": generateLeaf((isVolume ? 1000 : 11.0) * scale, 0.09, isVolume),
-    "Extruded / Pelletized Activated Carbon (EAC)": generateLeaf((isVolume ? 350 : 4.0) * scale, 0.07, isVolume),
-    "Others (Bead / Spherical Activated Carbon, etc.)": generateLeaf((isVolume ? 150 : 1.8) * scale, 0.06, isVolume)
+  // By Grade
+  const byGrade = {
+    "Technical Grade": generateLeaf((isVolume ? 800 : 8.5) * scale, 0.08, isVolume),
+    "Industrial Grade": generateLeaf((isVolume ? 600 : 6.5) * scale * industrialScale, 0.07, isVolume),
+    "Flotation Reagent Grade": generateLeaf((isVolume ? 500 : 5.5) * scale * miningScale, 0.09, isVolume),
+    "Other Commercial Grades": generateLeaf((isVolume ? 150 : 1.8) * scale, 0.06, isVolume)
   };
 
-  const bySupplyType = {
-    "Virgin Activated Carbon": generateLeaf((isVolume ? 1500 : 16.0) * scale, 0.08, isVolume),
-    "Reactivated / Regenerated Activated Carbon": generateLeaf((isVolume ? 700 : 7.0) * scale, 0.10, isVolume)
-  };
-
-  // Gold Mining vs Water Treatment scaling
-  const goldScale = isNonAfrican ? 0.6 : 1.0;
-  const waterScale = isNonAfrican ? 1.4 : 1.0;
-
+  // By Application in Gold Mining
   const byApplication = {
-    "Gold Mining": {
-      "Carbon-in-Leach (CIL)": generateLeaf((isVolume ? 600 : 6.5) * scale * goldScale, 0.09, isVolume),
-      "Carbon-in-Pulp (CIP)": generateLeaf((isVolume ? 500 : 5.5) * scale * goldScale, 0.08, isVolume),
-      "Carbon-in-Column (CIC)": generateLeaf((isVolume ? 250 : 2.8) * scale * goldScale, 0.07, isVolume),
-      "Others": generateLeaf((isVolume ? 150 : 1.5) * scale * goldScale, 0.08, isVolume)
-    },
-    "Water Treatment": {
-      "Potable / Drinking Water Treatment": generateLeaf((isVolume ? 300 : 3.2) * scale * waterScale, 0.08, isVolume),
-      "Industrial Water Treatment": generateLeaf((isVolume ? 250 : 2.8) * scale * waterScale, 0.07, isVolume),
-      "Wastewater / Effluent Treatment": generateLeaf((isVolume ? 200 : 2.2) * scale * waterScale, 0.09, isVolume),
-      "Mine Water Treatment": generateLeaf((isVolume ? 180 : 2.0) * scale * waterScale, 0.08, isVolume)
-    }
+    "Froth Formation in Flotation": generateLeaf((isVolume ? 700 : 7.5) * scale * miningScale, 0.08, isVolume),
+    "Froth Stability Control": generateLeaf((isVolume ? 500 : 5.5) * scale * miningScale, 0.07, isVolume),
+    "Sulphide Mineral Recovery Support": generateLeaf((isVolume ? 450 : 5.0) * scale * miningScale, 0.09, isVolume),
+    "Flotation Performance Optimization": generateLeaf((isVolume ? 350 : 4.0) * scale * miningScale, 0.08, isVolume)
+  };
+
+  // By End User
+  const byEndUser = {
+    "Gold Mining Companies": generateLeaf((isVolume ? 800 : 9.0) * scale * miningScale, 0.08, isVolume),
+    "Mineral Processing Plants": generateLeaf((isVolume ? 600 : 6.5) * scale, 0.07, isVolume),
+    "Reagent Suppliers / Distributors": generateLeaf((isVolume ? 400 : 4.5) * scale, 0.09, isVolume),
+    "Mining Service Contractors": generateLeaf((isVolume ? 250 : 2.8) * scale * miningScale, 0.06, isVolume)
   };
 
   return {
-    "By Raw Material Source": byRawMaterial,
-    "By Product Form": byProductForm,
-    "By Supply Type": bySupplyType,
-    "By Application": byApplication
+    "By Form": byForm,
+    "By Grade": byGrade,
+    "By Application in Gold Mining": byApplication,
+    "By End User": byEndUser
   };
 }
 
@@ -289,7 +266,7 @@ verify(valueData, 'value.json');
 verify(volumeData, 'volume.json');
 
 // Show sample
-console.log('\nSample - South Africa > By Raw Material Source > Coal-Based > Bituminous (value):');
-console.log(JSON.stringify(valueData['South Africa']['By Raw Material Source']['Coal-Based Activated Carbon']['Bituminous Coal-Based'], null, 2));
-console.log('\nSample - Guinea > By Application > Gold Mining > CIL (volume):');
-console.log(JSON.stringify(volumeData['Guinea']['By Application']['Gold Mining']['Carbon-in-Leach (CIL)'], null, 2));
+console.log('\nSample - South Africa > By Form > Liquid MIBC – Bulk Supply (value):');
+console.log(JSON.stringify(valueData['South Africa']['By Form']['Liquid MIBC – Bulk Supply'], null, 2));
+console.log('\nSample - Guinea > By Application in Gold Mining > Froth Formation in Flotation (volume):');
+console.log(JSON.stringify(volumeData['Guinea']['By Application in Gold Mining']['Froth Formation in Flotation'], null, 2));

@@ -1,242 +1,314 @@
 {
   "South Africa": {
     "By Form": {
-      "Liquid Sodium Isobutyl Xanthate": {},
-      "Solid Sodium Isobutyl Xanthate (pellets, powder)": {}
+      "Liquid MIBC – Bulk Supply": {},
+      "Liquid MIBC – Drummed / Packaged Supply": {},
+      "Blended Frother Formulations Containing MIBC": {},
+      "Other Commercial Supply Formats": {}
     },
     "By Grade": {
       "Technical Grade": {},
-      "Research / High-Purity Grade": {}
+      "Industrial Grade": {},
+      "Flotation Reagent Grade": {},
+      "Other Commercial Grades": {}
     },
     "By Application in Gold Mining": {
-      "Flotation Collector for Sulfide Gold Ores": {},
-      "Flotation in Polymetallic Gold Ores": {}
+      "Froth Formation in Flotation": {},
+      "Froth Stability Control": {},
+      "Sulphide Mineral Recovery Support": {},
+      "Flotation Performance Optimization": {}
     },
-    "By Application Environment / Use Case": {
-      "Primary Gold Flotation Circuits": {},
-      "Gold-Copper / Polymetallic Flotation Circuits": {},
-      "Refractory Gold Ore Flotation": {},
-      "Metallurgical Testwork / Laboratory Use": {}
+    "By End User": {
+      "Gold Mining Companies": {},
+      "Mineral Processing Plants": {},
+      "Reagent Suppliers / Distributors": {},
+      "Mining Service Contractors": {}
     }
   },
   "Ghana": {
     "By Form": {
-      "Liquid Sodium Isobutyl Xanthate": {},
-      "Solid Sodium Isobutyl Xanthate (pellets, powder)": {}
+      "Liquid MIBC – Bulk Supply": {},
+      "Liquid MIBC – Drummed / Packaged Supply": {},
+      "Blended Frother Formulations Containing MIBC": {},
+      "Other Commercial Supply Formats": {}
     },
     "By Grade": {
       "Technical Grade": {},
-      "Research / High-Purity Grade": {}
+      "Industrial Grade": {},
+      "Flotation Reagent Grade": {},
+      "Other Commercial Grades": {}
     },
     "By Application in Gold Mining": {
-      "Flotation Collector for Sulfide Gold Ores": {},
-      "Flotation in Polymetallic Gold Ores": {}
+      "Froth Formation in Flotation": {},
+      "Froth Stability Control": {},
+      "Sulphide Mineral Recovery Support": {},
+      "Flotation Performance Optimization": {}
     },
-    "By Application Environment / Use Case": {
-      "Primary Gold Flotation Circuits": {},
-      "Gold-Copper / Polymetallic Flotation Circuits": {},
-      "Refractory Gold Ore Flotation": {},
-      "Metallurgical Testwork / Laboratory Use": {}
+    "By End User": {
+      "Gold Mining Companies": {},
+      "Mineral Processing Plants": {},
+      "Reagent Suppliers / Distributors": {},
+      "Mining Service Contractors": {}
     }
   },
   "Mali": {
     "By Form": {
-      "Liquid Sodium Isobutyl Xanthate": {},
-      "Solid Sodium Isobutyl Xanthate (pellets, powder)": {}
+      "Liquid MIBC – Bulk Supply": {},
+      "Liquid MIBC – Drummed / Packaged Supply": {},
+      "Blended Frother Formulations Containing MIBC": {},
+      "Other Commercial Supply Formats": {}
     },
     "By Grade": {
       "Technical Grade": {},
-      "Research / High-Purity Grade": {}
+      "Industrial Grade": {},
+      "Flotation Reagent Grade": {},
+      "Other Commercial Grades": {}
     },
     "By Application in Gold Mining": {
-      "Flotation Collector for Sulfide Gold Ores": {},
-      "Flotation in Polymetallic Gold Ores": {}
+      "Froth Formation in Flotation": {},
+      "Froth Stability Control": {},
+      "Sulphide Mineral Recovery Support": {},
+      "Flotation Performance Optimization": {}
     },
-    "By Application Environment / Use Case": {
-      "Primary Gold Flotation Circuits": {},
-      "Gold-Copper / Polymetallic Flotation Circuits": {},
-      "Refractory Gold Ore Flotation": {},
-      "Metallurgical Testwork / Laboratory Use": {}
+    "By End User": {
+      "Gold Mining Companies": {},
+      "Mineral Processing Plants": {},
+      "Reagent Suppliers / Distributors": {},
+      "Mining Service Contractors": {}
     }
   },
   "Burkina Faso": {
     "By Form": {
-      "Liquid Sodium Isobutyl Xanthate": {},
-      "Solid Sodium Isobutyl Xanthate (pellets, powder)": {}
+      "Liquid MIBC – Bulk Supply": {},
+      "Liquid MIBC – Drummed / Packaged Supply": {},
+      "Blended Frother Formulations Containing MIBC": {},
+      "Other Commercial Supply Formats": {}
     },
     "By Grade": {
       "Technical Grade": {},
-      "Research / High-Purity Grade": {}
+      "Industrial Grade": {},
+      "Flotation Reagent Grade": {},
+      "Other Commercial Grades": {}
     },
     "By Application in Gold Mining": {
-      "Flotation Collector for Sulfide Gold Ores": {},
-      "Flotation in Polymetallic Gold Ores": {}
+      "Froth Formation in Flotation": {},
+      "Froth Stability Control": {},
+      "Sulphide Mineral Recovery Support": {},
+      "Flotation Performance Optimization": {}
     },
-    "By Application Environment / Use Case": {
-      "Primary Gold Flotation Circuits": {},
-      "Gold-Copper / Polymetallic Flotation Circuits": {},
-      "Refractory Gold Ore Flotation": {},
-      "Metallurgical Testwork / Laboratory Use": {}
+    "By End User": {
+      "Gold Mining Companies": {},
+      "Mineral Processing Plants": {},
+      "Reagent Suppliers / Distributors": {},
+      "Mining Service Contractors": {}
     }
   },
   "Tanzania": {
     "By Form": {
-      "Liquid Sodium Isobutyl Xanthate": {},
-      "Solid Sodium Isobutyl Xanthate (pellets, powder)": {}
+      "Liquid MIBC – Bulk Supply": {},
+      "Liquid MIBC – Drummed / Packaged Supply": {},
+      "Blended Frother Formulations Containing MIBC": {},
+      "Other Commercial Supply Formats": {}
     },
     "By Grade": {
       "Technical Grade": {},
-      "Research / High-Purity Grade": {}
+      "Industrial Grade": {},
+      "Flotation Reagent Grade": {},
+      "Other Commercial Grades": {}
     },
     "By Application in Gold Mining": {
-      "Flotation Collector for Sulfide Gold Ores": {},
-      "Flotation in Polymetallic Gold Ores": {}
+      "Froth Formation in Flotation": {},
+      "Froth Stability Control": {},
+      "Sulphide Mineral Recovery Support": {},
+      "Flotation Performance Optimization": {}
     },
-    "By Application Environment / Use Case": {
-      "Primary Gold Flotation Circuits": {},
-      "Gold-Copper / Polymetallic Flotation Circuits": {},
-      "Refractory Gold Ore Flotation": {},
-      "Metallurgical Testwork / Laboratory Use": {}
+    "By End User": {
+      "Gold Mining Companies": {},
+      "Mineral Processing Plants": {},
+      "Reagent Suppliers / Distributors": {},
+      "Mining Service Contractors": {}
     }
   },
   "Côte d'Ivoire": {
     "By Form": {
-      "Liquid Sodium Isobutyl Xanthate": {},
-      "Solid Sodium Isobutyl Xanthate (pellets, powder)": {}
+      "Liquid MIBC – Bulk Supply": {},
+      "Liquid MIBC – Drummed / Packaged Supply": {},
+      "Blended Frother Formulations Containing MIBC": {},
+      "Other Commercial Supply Formats": {}
     },
     "By Grade": {
       "Technical Grade": {},
-      "Research / High-Purity Grade": {}
+      "Industrial Grade": {},
+      "Flotation Reagent Grade": {},
+      "Other Commercial Grades": {}
     },
     "By Application in Gold Mining": {
-      "Flotation Collector for Sulfide Gold Ores": {},
-      "Flotation in Polymetallic Gold Ores": {}
+      "Froth Formation in Flotation": {},
+      "Froth Stability Control": {},
+      "Sulphide Mineral Recovery Support": {},
+      "Flotation Performance Optimization": {}
     },
-    "By Application Environment / Use Case": {
-      "Primary Gold Flotation Circuits": {},
-      "Gold-Copper / Polymetallic Flotation Circuits": {},
-      "Refractory Gold Ore Flotation": {},
-      "Metallurgical Testwork / Laboratory Use": {}
+    "By End User": {
+      "Gold Mining Companies": {},
+      "Mineral Processing Plants": {},
+      "Reagent Suppliers / Distributors": {},
+      "Mining Service Contractors": {}
     }
   },
   "Zimbabwe": {
     "By Form": {
-      "Liquid Sodium Isobutyl Xanthate": {},
-      "Solid Sodium Isobutyl Xanthate (pellets, powder)": {}
+      "Liquid MIBC – Bulk Supply": {},
+      "Liquid MIBC – Drummed / Packaged Supply": {},
+      "Blended Frother Formulations Containing MIBC": {},
+      "Other Commercial Supply Formats": {}
     },
     "By Grade": {
       "Technical Grade": {},
-      "Research / High-Purity Grade": {}
+      "Industrial Grade": {},
+      "Flotation Reagent Grade": {},
+      "Other Commercial Grades": {}
     },
     "By Application in Gold Mining": {
-      "Flotation Collector for Sulfide Gold Ores": {},
-      "Flotation in Polymetallic Gold Ores": {}
+      "Froth Formation in Flotation": {},
+      "Froth Stability Control": {},
+      "Sulphide Mineral Recovery Support": {},
+      "Flotation Performance Optimization": {}
     },
-    "By Application Environment / Use Case": {
-      "Primary Gold Flotation Circuits": {},
-      "Gold-Copper / Polymetallic Flotation Circuits": {},
-      "Refractory Gold Ore Flotation": {},
-      "Metallurgical Testwork / Laboratory Use": {}
+    "By End User": {
+      "Gold Mining Companies": {},
+      "Mineral Processing Plants": {},
+      "Reagent Suppliers / Distributors": {},
+      "Mining Service Contractors": {}
     }
   },
   "Democratic Republic of the Congo": {
     "By Form": {
-      "Liquid Sodium Isobutyl Xanthate": {},
-      "Solid Sodium Isobutyl Xanthate (pellets, powder)": {}
+      "Liquid MIBC – Bulk Supply": {},
+      "Liquid MIBC – Drummed / Packaged Supply": {},
+      "Blended Frother Formulations Containing MIBC": {},
+      "Other Commercial Supply Formats": {}
     },
     "By Grade": {
       "Technical Grade": {},
-      "Research / High-Purity Grade": {}
+      "Industrial Grade": {},
+      "Flotation Reagent Grade": {},
+      "Other Commercial Grades": {}
     },
     "By Application in Gold Mining": {
-      "Flotation Collector for Sulfide Gold Ores": {},
-      "Flotation in Polymetallic Gold Ores": {}
+      "Froth Formation in Flotation": {},
+      "Froth Stability Control": {},
+      "Sulphide Mineral Recovery Support": {},
+      "Flotation Performance Optimization": {}
     },
-    "By Application Environment / Use Case": {
-      "Primary Gold Flotation Circuits": {},
-      "Gold-Copper / Polymetallic Flotation Circuits": {},
-      "Refractory Gold Ore Flotation": {},
-      "Metallurgical Testwork / Laboratory Use": {}
+    "By End User": {
+      "Gold Mining Companies": {},
+      "Mineral Processing Plants": {},
+      "Reagent Suppliers / Distributors": {},
+      "Mining Service Contractors": {}
     }
   },
   "Guinea": {
     "By Form": {
-      "Liquid Sodium Isobutyl Xanthate": {},
-      "Solid Sodium Isobutyl Xanthate (pellets, powder)": {}
+      "Liquid MIBC – Bulk Supply": {},
+      "Liquid MIBC – Drummed / Packaged Supply": {},
+      "Blended Frother Formulations Containing MIBC": {},
+      "Other Commercial Supply Formats": {}
     },
     "By Grade": {
       "Technical Grade": {},
-      "Research / High-Purity Grade": {}
+      "Industrial Grade": {},
+      "Flotation Reagent Grade": {},
+      "Other Commercial Grades": {}
     },
     "By Application in Gold Mining": {
-      "Flotation Collector for Sulfide Gold Ores": {},
-      "Flotation in Polymetallic Gold Ores": {}
+      "Froth Formation in Flotation": {},
+      "Froth Stability Control": {},
+      "Sulphide Mineral Recovery Support": {},
+      "Flotation Performance Optimization": {}
     },
-    "By Application Environment / Use Case": {
-      "Primary Gold Flotation Circuits": {},
-      "Gold-Copper / Polymetallic Flotation Circuits": {},
-      "Refractory Gold Ore Flotation": {},
-      "Metallurgical Testwork / Laboratory Use": {}
+    "By End User": {
+      "Gold Mining Companies": {},
+      "Mineral Processing Plants": {},
+      "Reagent Suppliers / Distributors": {},
+      "Mining Service Contractors": {}
     }
   },
   "Sudan": {
     "By Form": {
-      "Liquid Sodium Isobutyl Xanthate": {},
-      "Solid Sodium Isobutyl Xanthate (pellets, powder)": {}
+      "Liquid MIBC – Bulk Supply": {},
+      "Liquid MIBC – Drummed / Packaged Supply": {},
+      "Blended Frother Formulations Containing MIBC": {},
+      "Other Commercial Supply Formats": {}
     },
     "By Grade": {
       "Technical Grade": {},
-      "Research / High-Purity Grade": {}
+      "Industrial Grade": {},
+      "Flotation Reagent Grade": {},
+      "Other Commercial Grades": {}
     },
     "By Application in Gold Mining": {
-      "Flotation Collector for Sulfide Gold Ores": {},
-      "Flotation in Polymetallic Gold Ores": {}
+      "Froth Formation in Flotation": {},
+      "Froth Stability Control": {},
+      "Sulphide Mineral Recovery Support": {},
+      "Flotation Performance Optimization": {}
     },
-    "By Application Environment / Use Case": {
-      "Primary Gold Flotation Circuits": {},
-      "Gold-Copper / Polymetallic Flotation Circuits": {},
-      "Refractory Gold Ore Flotation": {},
-      "Metallurgical Testwork / Laboratory Use": {}
+    "By End User": {
+      "Gold Mining Companies": {},
+      "Mineral Processing Plants": {},
+      "Reagent Suppliers / Distributors": {},
+      "Mining Service Contractors": {}
     }
   },
   "Russia": {
     "By Form": {
-      "Liquid Sodium Isobutyl Xanthate": {},
-      "Solid Sodium Isobutyl Xanthate (pellets, powder)": {}
+      "Liquid MIBC – Bulk Supply": {},
+      "Liquid MIBC – Drummed / Packaged Supply": {},
+      "Blended Frother Formulations Containing MIBC": {},
+      "Other Commercial Supply Formats": {}
     },
     "By Grade": {
       "Technical Grade": {},
-      "Research / High-Purity Grade": {}
+      "Industrial Grade": {},
+      "Flotation Reagent Grade": {},
+      "Other Commercial Grades": {}
     },
     "By Application in Gold Mining": {
-      "Flotation Collector for Sulfide Gold Ores": {},
-      "Flotation in Polymetallic Gold Ores": {}
+      "Froth Formation in Flotation": {},
+      "Froth Stability Control": {},
+      "Sulphide Mineral Recovery Support": {},
+      "Flotation Performance Optimization": {}
     },
-    "By Application Environment / Use Case": {
-      "Primary Gold Flotation Circuits": {},
-      "Gold-Copper / Polymetallic Flotation Circuits": {},
-      "Refractory Gold Ore Flotation": {},
-      "Metallurgical Testwork / Laboratory Use": {}
+    "By End User": {
+      "Gold Mining Companies": {},
+      "Mineral Processing Plants": {},
+      "Reagent Suppliers / Distributors": {},
+      "Mining Service Contractors": {}
     }
   },
   "Australia": {
     "By Form": {
-      "Liquid Sodium Isobutyl Xanthate": {},
-      "Solid Sodium Isobutyl Xanthate (pellets, powder)": {}
+      "Liquid MIBC – Bulk Supply": {},
+      "Liquid MIBC – Drummed / Packaged Supply": {},
+      "Blended Frother Formulations Containing MIBC": {},
+      "Other Commercial Supply Formats": {}
     },
     "By Grade": {
       "Technical Grade": {},
-      "Research / High-Purity Grade": {}
+      "Industrial Grade": {},
+      "Flotation Reagent Grade": {},
+      "Other Commercial Grades": {}
     },
     "By Application in Gold Mining": {
-      "Flotation Collector for Sulfide Gold Ores": {},
-      "Flotation in Polymetallic Gold Ores": {}
+      "Froth Formation in Flotation": {},
+      "Froth Stability Control": {},
+      "Sulphide Mineral Recovery Support": {},
+      "Flotation Performance Optimization": {}
     },
-    "By Application Environment / Use Case": {
-      "Primary Gold Flotation Circuits": {},
-      "Gold-Copper / Polymetallic Flotation Circuits": {},
-      "Refractory Gold Ore Flotation": {},
-      "Metallurgical Testwork / Laboratory Use": {}
+    "By End User": {
+      "Gold Mining Companies": {},
+      "Mineral Processing Plants": {},
+      "Reagent Suppliers / Distributors": {},
+      "Mining Service Contractors": {}
     }
   }
 }

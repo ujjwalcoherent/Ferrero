@@ -1472,7 +1472,7 @@ export async function processJsonDataAsync(
     
     // Build metadata
     const metadata: Metadata = {
-      market_name: 'Sodium Isobutyl Xanthate (SIBX) Market',
+      market_name: 'Methyl Isobutyl Carbinol (MICB) Market',
       market_type: 'Market Analysis',
       industry: 'Chemicals & Materials',
       years: allYears,
