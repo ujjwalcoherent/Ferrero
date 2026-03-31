@@ -1,314 +1,242 @@
 {
   "South Africa": {
-    "By Product Specification": {
-      "Sodium Sulphide 60% Flakes": {},
-      "Sodium Sulphide 60% Technical Grade": {},
-      "Sodium Sulphide 60% Industrial Grade": {},
-      "Other Mining-Use Specifications": {}
+    "By Form": {
+      "Liquid Sodium Isobutyl Xanthate": {},
+      "Solid Sodium Isobutyl Xanthate (pellets, powder)": {}
     },
-    "By Application": {
-      "Sulfidization for Flotation": {},
-      "Sulphide Flotation Support": {},
-      "Pyrite Reactivation / Recovery": {},
-      "Metallurgical Testwork & Lab Use": {}
+    "By Grade": {
+      "Technical Grade": {},
+      "Research / High-Purity Grade": {}
     },
-    "By Process Stage": {
-      "Ore Conditioning": {},
-      "Primary Flotation": {},
-      "Secondary Sulphide / Pyrite Recovery": {},
-      "Laboratory / Pilot Testing": {}
+    "By Application in Gold Mining": {
+      "Flotation Collector for Sulfide Gold Ores": {},
+      "Flotation in Polymetallic Gold Ores": {}
     },
-    "By End User": {
-      "Gold Mines": {},
-      "Gold-Copper Mining Operations": {},
-      "Metallurgical Laboratories": {},
-      "Mineral Processing Service Providers": {}
+    "By Application Environment / Use Case": {
+      "Primary Gold Flotation Circuits": {},
+      "Gold-Copper / Polymetallic Flotation Circuits": {},
+      "Refractory Gold Ore Flotation": {},
+      "Metallurgical Testwork / Laboratory Use": {}
     }
   },
   "Ghana": {
-    "By Product Specification": {
-      "Sodium Sulphide 60% Flakes": {},
-      "Sodium Sulphide 60% Technical Grade": {},
-      "Sodium Sulphide 60% Industrial Grade": {},
-      "Other Mining-Use Specifications": {}
+    "By Form": {
+      "Liquid Sodium Isobutyl Xanthate": {},
+      "Solid Sodium Isobutyl Xanthate (pellets, powder)": {}
     },
-    "By Application": {
-      "Sulfidization for Flotation": {},
-      "Sulphide Flotation Support": {},
-      "Pyrite Reactivation / Recovery": {},
-      "Metallurgical Testwork & Lab Use": {}
+    "By Grade": {
+      "Technical Grade": {},
+      "Research / High-Purity Grade": {}
     },
-    "By Process Stage": {
-      "Ore Conditioning": {},
-      "Primary Flotation": {},
-      "Secondary Sulphide / Pyrite Recovery": {},
-      "Laboratory / Pilot Testing": {}
+    "By Application in Gold Mining": {
+      "Flotation Collector for Sulfide Gold Ores": {},
+      "Flotation in Polymetallic Gold Ores": {}
     },
-    "By End User": {
-      "Gold Mines": {},
-      "Gold-Copper Mining Operations": {},
-      "Metallurgical Laboratories": {},
-      "Mineral Processing Service Providers": {}
+    "By Application Environment / Use Case": {
+      "Primary Gold Flotation Circuits": {},
+      "Gold-Copper / Polymetallic Flotation Circuits": {},
+      "Refractory Gold Ore Flotation": {},
+      "Metallurgical Testwork / Laboratory Use": {}
     }
   },
   "Mali": {
-    "By Product Specification": {
-      "Sodium Sulphide 60% Flakes": {},
-      "Sodium Sulphide 60% Technical Grade": {},
-      "Sodium Sulphide 60% Industrial Grade": {},
-      "Other Mining-Use Specifications": {}
+    "By Form": {
+      "Liquid Sodium Isobutyl Xanthate": {},
+      "Solid Sodium Isobutyl Xanthate (pellets, powder)": {}
     },
-    "By Application": {
-      "Sulfidization for Flotation": {},
-      "Sulphide Flotation Support": {},
-      "Pyrite Reactivation / Recovery": {},
-      "Metallurgical Testwork & Lab Use": {}
+    "By Grade": {
+      "Technical Grade": {},
+      "Research / High-Purity Grade": {}
     },
-    "By Process Stage": {
-      "Ore Conditioning": {},
-      "Primary Flotation": {},
-      "Secondary Sulphide / Pyrite Recovery": {},
-      "Laboratory / Pilot Testing": {}
+    "By Application in Gold Mining": {
+      "Flotation Collector for Sulfide Gold Ores": {},
+      "Flotation in Polymetallic Gold Ores": {}
     },
-    "By End User": {
-      "Gold Mines": {},
-      "Gold-Copper Mining Operations": {},
-      "Metallurgical Laboratories": {},
-      "Mineral Processing Service Providers": {}
+    "By Application Environment / Use Case": {
+      "Primary Gold Flotation Circuits": {},
+      "Gold-Copper / Polymetallic Flotation Circuits": {},
+      "Refractory Gold Ore Flotation": {},
+      "Metallurgical Testwork / Laboratory Use": {}
     }
   },
   "Burkina Faso": {
-    "By Product Specification": {
-      "Sodium Sulphide 60% Flakes": {},
-      "Sodium Sulphide 60% Technical Grade": {},
-      "Sodium Sulphide 60% Industrial Grade": {},
-      "Other Mining-Use Specifications": {}
+    "By Form": {
+      "Liquid Sodium Isobutyl Xanthate": {},
+      "Solid Sodium Isobutyl Xanthate (pellets, powder)": {}
     },
-    "By Application": {
-      "Sulfidization for Flotation": {},
-      "Sulphide Flotation Support": {},
-      "Pyrite Reactivation / Recovery": {},
-      "Metallurgical Testwork & Lab Use": {}
+    "By Grade": {
+      "Technical Grade": {},
+      "Research / High-Purity Grade": {}
     },
-    "By Process Stage": {
-      "Ore Conditioning": {},
-      "Primary Flotation": {},
-      "Secondary Sulphide / Pyrite Recovery": {},
-      "Laboratory / Pilot Testing": {}
+    "By Application in Gold Mining": {
+      "Flotation Collector for Sulfide Gold Ores": {},
+      "Flotation in Polymetallic Gold Ores": {}
     },
-    "By End User": {
-      "Gold Mines": {},
-      "Gold-Copper Mining Operations": {},
-      "Metallurgical Laboratories": {},
-      "Mineral Processing Service Providers": {}
+    "By Application Environment / Use Case": {
+      "Primary Gold Flotation Circuits": {},
+      "Gold-Copper / Polymetallic Flotation Circuits": {},
+      "Refractory Gold Ore Flotation": {},
+      "Metallurgical Testwork / Laboratory Use": {}
     }
   },
   "Tanzania": {
-    "By Product Specification": {
-      "Sodium Sulphide 60% Flakes": {},
-      "Sodium Sulphide 60% Technical Grade": {},
-      "Sodium Sulphide 60% Industrial Grade": {},
-      "Other Mining-Use Specifications": {}
+    "By Form": {
+      "Liquid Sodium Isobutyl Xanthate": {},
+      "Solid Sodium Isobutyl Xanthate (pellets, powder)": {}
     },
-    "By Application": {
-      "Sulfidization for Flotation": {},
-      "Sulphide Flotation Support": {},
-      "Pyrite Reactivation / Recovery": {},
-      "Metallurgical Testwork & Lab Use": {}
+    "By Grade": {
+      "Technical Grade": {},
+      "Research / High-Purity Grade": {}
     },
-    "By Process Stage": {
-      "Ore Conditioning": {},
-      "Primary Flotation": {},
-      "Secondary Sulphide / Pyrite Recovery": {},
-      "Laboratory / Pilot Testing": {}
+    "By Application in Gold Mining": {
+      "Flotation Collector for Sulfide Gold Ores": {},
+      "Flotation in Polymetallic Gold Ores": {}
     },
-    "By End User": {
-      "Gold Mines": {},
-      "Gold-Copper Mining Operations": {},
-      "Metallurgical Laboratories": {},
-      "Mineral Processing Service Providers": {}
+    "By Application Environment / Use Case": {
+      "Primary Gold Flotation Circuits": {},
+      "Gold-Copper / Polymetallic Flotation Circuits": {},
+      "Refractory Gold Ore Flotation": {},
+      "Metallurgical Testwork / Laboratory Use": {}
     }
   },
   "Côte d'Ivoire": {
-    "By Product Specification": {
-      "Sodium Sulphide 60% Flakes": {},
-      "Sodium Sulphide 60% Technical Grade": {},
-      "Sodium Sulphide 60% Industrial Grade": {},
-      "Other Mining-Use Specifications": {}
+    "By Form": {
+      "Liquid Sodium Isobutyl Xanthate": {},
+      "Solid Sodium Isobutyl Xanthate (pellets, powder)": {}
     },
-    "By Application": {
-      "Sulfidization for Flotation": {},
-      "Sulphide Flotation Support": {},
-      "Pyrite Reactivation / Recovery": {},
-      "Metallurgical Testwork & Lab Use": {}
+    "By Grade": {
+      "Technical Grade": {},
+      "Research / High-Purity Grade": {}
     },
-    "By Process Stage": {
-      "Ore Conditioning": {},
-      "Primary Flotation": {},
-      "Secondary Sulphide / Pyrite Recovery": {},
-      "Laboratory / Pilot Testing": {}
+    "By Application in Gold Mining": {
+      "Flotation Collector for Sulfide Gold Ores": {},
+      "Flotation in Polymetallic Gold Ores": {}
     },
-    "By End User": {
-      "Gold Mines": {},
-      "Gold-Copper Mining Operations": {},
-      "Metallurgical Laboratories": {},
-      "Mineral Processing Service Providers": {}
+    "By Application Environment / Use Case": {
+      "Primary Gold Flotation Circuits": {},
+      "Gold-Copper / Polymetallic Flotation Circuits": {},
+      "Refractory Gold Ore Flotation": {},
+      "Metallurgical Testwork / Laboratory Use": {}
     }
   },
   "Zimbabwe": {
-    "By Product Specification": {
-      "Sodium Sulphide 60% Flakes": {},
-      "Sodium Sulphide 60% Technical Grade": {},
-      "Sodium Sulphide 60% Industrial Grade": {},
-      "Other Mining-Use Specifications": {}
+    "By Form": {
+      "Liquid Sodium Isobutyl Xanthate": {},
+      "Solid Sodium Isobutyl Xanthate (pellets, powder)": {}
     },
-    "By Application": {
-      "Sulfidization for Flotation": {},
-      "Sulphide Flotation Support": {},
-      "Pyrite Reactivation / Recovery": {},
-      "Metallurgical Testwork & Lab Use": {}
+    "By Grade": {
+      "Technical Grade": {},
+      "Research / High-Purity Grade": {}
     },
-    "By Process Stage": {
-      "Ore Conditioning": {},
-      "Primary Flotation": {},
-      "Secondary Sulphide / Pyrite Recovery": {},
-      "Laboratory / Pilot Testing": {}
+    "By Application in Gold Mining": {
+      "Flotation Collector for Sulfide Gold Ores": {},
+      "Flotation in Polymetallic Gold Ores": {}
     },
-    "By End User": {
-      "Gold Mines": {},
-      "Gold-Copper Mining Operations": {},
-      "Metallurgical Laboratories": {},
-      "Mineral Processing Service Providers": {}
+    "By Application Environment / Use Case": {
+      "Primary Gold Flotation Circuits": {},
+      "Gold-Copper / Polymetallic Flotation Circuits": {},
+      "Refractory Gold Ore Flotation": {},
+      "Metallurgical Testwork / Laboratory Use": {}
     }
   },
   "Democratic Republic of the Congo": {
-    "By Product Specification": {
-      "Sodium Sulphide 60% Flakes": {},
-      "Sodium Sulphide 60% Technical Grade": {},
-      "Sodium Sulphide 60% Industrial Grade": {},
-      "Other Mining-Use Specifications": {}
+    "By Form": {
+      "Liquid Sodium Isobutyl Xanthate": {},
+      "Solid Sodium Isobutyl Xanthate (pellets, powder)": {}
     },
-    "By Application": {
-      "Sulfidization for Flotation": {},
-      "Sulphide Flotation Support": {},
-      "Pyrite Reactivation / Recovery": {},
-      "Metallurgical Testwork & Lab Use": {}
+    "By Grade": {
+      "Technical Grade": {},
+      "Research / High-Purity Grade": {}
     },
-    "By Process Stage": {
-      "Ore Conditioning": {},
-      "Primary Flotation": {},
-      "Secondary Sulphide / Pyrite Recovery": {},
-      "Laboratory / Pilot Testing": {}
+    "By Application in Gold Mining": {
+      "Flotation Collector for Sulfide Gold Ores": {},
+      "Flotation in Polymetallic Gold Ores": {}
     },
-    "By End User": {
-      "Gold Mines": {},
-      "Gold-Copper Mining Operations": {},
-      "Metallurgical Laboratories": {},
-      "Mineral Processing Service Providers": {}
+    "By Application Environment / Use Case": {
+      "Primary Gold Flotation Circuits": {},
+      "Gold-Copper / Polymetallic Flotation Circuits": {},
+      "Refractory Gold Ore Flotation": {},
+      "Metallurgical Testwork / Laboratory Use": {}
     }
   },
   "Guinea": {
-    "By Product Specification": {
-      "Sodium Sulphide 60% Flakes": {},
-      "Sodium Sulphide 60% Technical Grade": {},
-      "Sodium Sulphide 60% Industrial Grade": {},
-      "Other Mining-Use Specifications": {}
+    "By Form": {
+      "Liquid Sodium Isobutyl Xanthate": {},
+      "Solid Sodium Isobutyl Xanthate (pellets, powder)": {}
     },
-    "By Application": {
-      "Sulfidization for Flotation": {},
-      "Sulphide Flotation Support": {},
-      "Pyrite Reactivation / Recovery": {},
-      "Metallurgical Testwork & Lab Use": {}
+    "By Grade": {
+      "Technical Grade": {},
+      "Research / High-Purity Grade": {}
     },
-    "By Process Stage": {
-      "Ore Conditioning": {},
-      "Primary Flotation": {},
-      "Secondary Sulphide / Pyrite Recovery": {},
-      "Laboratory / Pilot Testing": {}
+    "By Application in Gold Mining": {
+      "Flotation Collector for Sulfide Gold Ores": {},
+      "Flotation in Polymetallic Gold Ores": {}
     },
-    "By End User": {
-      "Gold Mines": {},
-      "Gold-Copper Mining Operations": {},
-      "Metallurgical Laboratories": {},
-      "Mineral Processing Service Providers": {}
+    "By Application Environment / Use Case": {
+      "Primary Gold Flotation Circuits": {},
+      "Gold-Copper / Polymetallic Flotation Circuits": {},
+      "Refractory Gold Ore Flotation": {},
+      "Metallurgical Testwork / Laboratory Use": {}
     }
   },
   "Sudan": {
-    "By Product Specification": {
-      "Sodium Sulphide 60% Flakes": {},
-      "Sodium Sulphide 60% Technical Grade": {},
-      "Sodium Sulphide 60% Industrial Grade": {},
-      "Other Mining-Use Specifications": {}
+    "By Form": {
+      "Liquid Sodium Isobutyl Xanthate": {},
+      "Solid Sodium Isobutyl Xanthate (pellets, powder)": {}
     },
-    "By Application": {
-      "Sulfidization for Flotation": {},
-      "Sulphide Flotation Support": {},
-      "Pyrite Reactivation / Recovery": {},
-      "Metallurgical Testwork & Lab Use": {}
+    "By Grade": {
+      "Technical Grade": {},
+      "Research / High-Purity Grade": {}
     },
-    "By Process Stage": {
-      "Ore Conditioning": {},
-      "Primary Flotation": {},
-      "Secondary Sulphide / Pyrite Recovery": {},
-      "Laboratory / Pilot Testing": {}
+    "By Application in Gold Mining": {
+      "Flotation Collector for Sulfide Gold Ores": {},
+      "Flotation in Polymetallic Gold Ores": {}
     },
-    "By End User": {
-      "Gold Mines": {},
-      "Gold-Copper Mining Operations": {},
-      "Metallurgical Laboratories": {},
-      "Mineral Processing Service Providers": {}
+    "By Application Environment / Use Case": {
+      "Primary Gold Flotation Circuits": {},
+      "Gold-Copper / Polymetallic Flotation Circuits": {},
+      "Refractory Gold Ore Flotation": {},
+      "Metallurgical Testwork / Laboratory Use": {}
     }
   },
   "Russia": {
-    "By Product Specification": {
-      "Sodium Sulphide 60% Flakes": {},
-      "Sodium Sulphide 60% Technical Grade": {},
-      "Sodium Sulphide 60% Industrial Grade": {},
-      "Other Mining-Use Specifications": {}
+    "By Form": {
+      "Liquid Sodium Isobutyl Xanthate": {},
+      "Solid Sodium Isobutyl Xanthate (pellets, powder)": {}
     },
-    "By Application": {
-      "Sulfidization for Flotation": {},
-      "Sulphide Flotation Support": {},
-      "Pyrite Reactivation / Recovery": {},
-      "Metallurgical Testwork & Lab Use": {}
+    "By Grade": {
+      "Technical Grade": {},
+      "Research / High-Purity Grade": {}
     },
-    "By Process Stage": {
-      "Ore Conditioning": {},
-      "Primary Flotation": {},
-      "Secondary Sulphide / Pyrite Recovery": {},
-      "Laboratory / Pilot Testing": {}
+    "By Application in Gold Mining": {
+      "Flotation Collector for Sulfide Gold Ores": {},
+      "Flotation in Polymetallic Gold Ores": {}
     },
-    "By End User": {
-      "Gold Mines": {},
-      "Gold-Copper Mining Operations": {},
-      "Metallurgical Laboratories": {},
-      "Mineral Processing Service Providers": {}
+    "By Application Environment / Use Case": {
+      "Primary Gold Flotation Circuits": {},
+      "Gold-Copper / Polymetallic Flotation Circuits": {},
+      "Refractory Gold Ore Flotation": {},
+      "Metallurgical Testwork / Laboratory Use": {}
     }
   },
   "Australia": {
-    "By Product Specification": {
-      "Sodium Sulphide 60% Flakes": {},
-      "Sodium Sulphide 60% Technical Grade": {},
-      "Sodium Sulphide 60% Industrial Grade": {},
-      "Other Mining-Use Specifications": {}
+    "By Form": {
+      "Liquid Sodium Isobutyl Xanthate": {},
+      "Solid Sodium Isobutyl Xanthate (pellets, powder)": {}
     },
-    "By Application": {
-      "Sulfidization for Flotation": {},
-      "Sulphide Flotation Support": {},
-      "Pyrite Reactivation / Recovery": {},
-      "Metallurgical Testwork & Lab Use": {}
+    "By Grade": {
+      "Technical Grade": {},
+      "Research / High-Purity Grade": {}
     },
-    "By Process Stage": {
-      "Ore Conditioning": {},
-      "Primary Flotation": {},
-      "Secondary Sulphide / Pyrite Recovery": {},
-      "Laboratory / Pilot Testing": {}
+    "By Application in Gold Mining": {
+      "Flotation Collector for Sulfide Gold Ores": {},
+      "Flotation in Polymetallic Gold Ores": {}
     },
-    "By End User": {
-      "Gold Mines": {},
-      "Gold-Copper Mining Operations": {},
-      "Metallurgical Laboratories": {},
-      "Mineral Processing Service Providers": {}
+    "By Application Environment / Use Case": {
+      "Primary Gold Flotation Circuits": {},
+      "Gold-Copper / Polymetallic Flotation Circuits": {},
+      "Refractory Gold Ore Flotation": {},
+      "Metallurgical Testwork / Laboratory Use": {}
     }
   }
 }

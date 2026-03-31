@@ -101,6 +101,13 @@ function getDefaultFilters(data: ComparisonData | null): FilterState {
     defaultBusinessType = 'B2B'
   }
 
+  // Build advancedSegments from firstSegments to keep chart components in sync
+  const defaultAdvancedSegments = firstSegments.map((segment: string) => ({
+    type: firstSegmentType,
+    segment,
+    id: `${firstSegmentType}::${segment}`
+  }))
+
   return {
     geographies: firstGeography ? [firstGeography] : [],
     segments: firstSegments,
@@ -111,6 +118,7 @@ function getDefaultFilters(data: ComparisonData | null): FilterState {
     businessType: defaultBusinessType,
     aggregationLevel: null, // Automatic - determined by selected segments
     showLevel1Totals: false,
+    advancedSegments: defaultAdvancedSegments,
   }
 }
 

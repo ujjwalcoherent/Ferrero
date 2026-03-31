@@ -31,7 +31,7 @@ export function EnhancedFilterPanel() {
       // Deduplicate segments to prevent duplicate keys
       const seen = new Set<string>()
       const segmentsFromStore: SelectedSegmentItem[] = []
-      
+
       filters.segments.forEach((segment) => {
         const id = `${filters.segmentType}::${segment}`
         // Only add if we haven't seen this segment+type combination
@@ -44,8 +44,15 @@ export function EnhancedFilterPanel() {
           })
         }
       })
-      
+
       setSelectedSegments(segmentsFromStore)
+
+      // Sync advancedSegments to store if not already set
+      if (!filters.advancedSegments || filters.advancedSegments.length === 0) {
+        updateFilters({
+          advancedSegments: segmentsFromStore
+        } as any)
+      }
     }
   }, [data, filters.segments, filters.segmentType])
 
