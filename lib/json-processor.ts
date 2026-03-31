@@ -1472,7 +1472,7 @@ export async function processJsonDataAsync(
     
     // Build metadata
     const metadata: Metadata = {
-      market_name: 'Methyl Isobutyl Carbinol (MIBC) Market',
+      market_name: 'Ferrero Silicon Market',
       market_type: 'Market Analysis',
       industry: 'Chemicals & Materials',
       years: allYears,
