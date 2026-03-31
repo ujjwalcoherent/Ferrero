@@ -1,446 +1,326 @@
 {
   "South Africa": {
-    "By Raw Material Source": {
-      "Coal-Based Activated Carbon": {
-        "Bituminous Coal-Based": {},
-        "Lignite/Sub-Bituminous Coal-Based": {},
-        "Anthracite Coal-Based": {}
-      },
-      "Coconut Shell-Based Activated Carbon": {},
-      "Wood-Based Activated Carbon": {},
-      "Peat-Based Activated Carbon": {},
-      "Other Biomass-Based Activated Carbon (Bamboo-Based, etc.)": {}
+    "By Mercury Specification": {
+      "Sulphuric Acid (Hg <1 ppm)": {},
+      "Sulphuric Acid (Hg 1–5 ppm)": {},
+      "Precious Metals Refineries": {},
+      "Mine Site Laboratories": {},
+      "Third-Party Metallurgical / Assay Laboratories": {}
     },
-    "By Product Form": {
-      "Powdered Activated Carbon (PAC)": {},
-      "Granular Activated Carbon (GAC)": {},
-      "Extruded / Pelletized Activated Carbon (EAC)": {},
-      "Others (Bead / Spherical Activated Carbon, etc.)": {}
+    "By Concentration / Strength": {
+      "93–96% H2SO4": {},
+      "96–98% H2SO4": {},
+      "Other Specialty Strengths": {}
     },
-    "By Supply Type": {
-      "Virgin Activated Carbon": {},
-      "Reactivated / Regenerated Activated Carbon": {}
+    "By Application in Gold Mining Value Chain": {
+      "Cyanide Destruction / Caro's Acid Preparation": {},
+      "Precious Metals Refining / Affination": {},
+      "Metallurgical Laboratory & Testwork Use": {},
+      "Ancillary Process Use": {}
     },
-    "By Application": {
-      "Gold Mining": {
-        "Carbon-in-Leach (CIL)": {},
-        "Carbon-in-Pulp (CIP)": {},
-        "Carbon-in-Column (CIC)": {},
-        "Others": {}
-      },
-      "Water Treatment": {
-        "Potable / Drinking Water Treatment": {},
-        "Industrial Water Treatment": {},
-        "Wastewater / Effluent Treatment": {},
-        "Mine Water Treatment": {}
-      }
+    "By End User": {
+      "Gold Mining Companies": {},
+      "Gold Processing Plants": {},
+      "Precious Metals Refineries": {},
+      "Mine Site Laboratories": {},
+      "Third-Party Metallurgical / Assay Laboratories": {}
     }
   },
   "Ghana": {
-    "By Raw Material Source": {
-      "Coal-Based Activated Carbon": {
-        "Bituminous Coal-Based": {},
-        "Lignite/Sub-Bituminous Coal-Based": {},
-        "Anthracite Coal-Based": {}
-      },
-      "Coconut Shell-Based Activated Carbon": {},
-      "Wood-Based Activated Carbon": {},
-      "Peat-Based Activated Carbon": {},
-      "Other Biomass-Based Activated Carbon (Bamboo-Based, etc.)": {}
+    "By Mercury Specification": {
+      "Sulphuric Acid (Hg <1 ppm)": {},
+      "Sulphuric Acid (Hg 1–5 ppm)": {},
+      "Precious Metals Refineries": {},
+      "Mine Site Laboratories": {},
+      "Third-Party Metallurgical / Assay Laboratories": {}
     },
-    "By Product Form": {
-      "Powdered Activated Carbon (PAC)": {},
-      "Granular Activated Carbon (GAC)": {},
-      "Extruded / Pelletized Activated Carbon (EAC)": {},
-      "Others (Bead / Spherical Activated Carbon, etc.)": {}
+    "By Concentration / Strength": {
+      "93–96% H2SO4": {},
+      "96–98% H2SO4": {},
+      "Other Specialty Strengths": {}
     },
-    "By Supply Type": {
-      "Virgin Activated Carbon": {},
-      "Reactivated / Regenerated Activated Carbon": {}
+    "By Application in Gold Mining Value Chain": {
+      "Cyanide Destruction / Caro's Acid Preparation": {},
+      "Precious Metals Refining / Affination": {},
+      "Metallurgical Laboratory & Testwork Use": {},
+      "Ancillary Process Use": {}
     },
-    "By Application": {
-      "Gold Mining": {
-        "Carbon-in-Leach (CIL)": {},
-        "Carbon-in-Pulp (CIP)": {},
-        "Carbon-in-Column (CIC)": {},
-        "Others": {}
-      },
-      "Water Treatment": {
-        "Potable / Drinking Water Treatment": {},
-        "Industrial Water Treatment": {},
-        "Wastewater / Effluent Treatment": {},
-        "Mine Water Treatment": {}
-      }
+    "By End User": {
+      "Gold Mining Companies": {},
+      "Gold Processing Plants": {},
+      "Precious Metals Refineries": {},
+      "Mine Site Laboratories": {},
+      "Third-Party Metallurgical / Assay Laboratories": {}
     }
   },
   "Mali": {
-    "By Raw Material Source": {
-      "Coal-Based Activated Carbon": {
-        "Bituminous Coal-Based": {},
-        "Lignite/Sub-Bituminous Coal-Based": {},
-        "Anthracite Coal-Based": {}
-      },
-      "Coconut Shell-Based Activated Carbon": {},
-      "Wood-Based Activated Carbon": {},
-      "Peat-Based Activated Carbon": {},
-      "Other Biomass-Based Activated Carbon (Bamboo-Based, etc.)": {}
+    "By Mercury Specification": {
+      "Sulphuric Acid (Hg <1 ppm)": {},
+      "Sulphuric Acid (Hg 1–5 ppm)": {},
+      "Precious Metals Refineries": {},
+      "Mine Site Laboratories": {},
+      "Third-Party Metallurgical / Assay Laboratories": {}
     },
-    "By Product Form": {
-      "Powdered Activated Carbon (PAC)": {},
-      "Granular Activated Carbon (GAC)": {},
-      "Extruded / Pelletized Activated Carbon (EAC)": {},
-      "Others (Bead / Spherical Activated Carbon, etc.)": {}
+    "By Concentration / Strength": {
+      "93–96% H2SO4": {},
+      "96–98% H2SO4": {},
+      "Other Specialty Strengths": {}
     },
-    "By Supply Type": {
-      "Virgin Activated Carbon": {},
-      "Reactivated / Regenerated Activated Carbon": {}
+    "By Application in Gold Mining Value Chain": {
+      "Cyanide Destruction / Caro's Acid Preparation": {},
+      "Precious Metals Refining / Affination": {},
+      "Metallurgical Laboratory & Testwork Use": {},
+      "Ancillary Process Use": {}
     },
-    "By Application": {
-      "Gold Mining": {
-        "Carbon-in-Leach (CIL)": {},
-        "Carbon-in-Pulp (CIP)": {},
-        "Carbon-in-Column (CIC)": {},
-        "Others": {}
-      },
-      "Water Treatment": {
-        "Potable / Drinking Water Treatment": {},
-        "Industrial Water Treatment": {},
-        "Wastewater / Effluent Treatment": {},
-        "Mine Water Treatment": {}
-      }
+    "By End User": {
+      "Gold Mining Companies": {},
+      "Gold Processing Plants": {},
+      "Precious Metals Refineries": {},
+      "Mine Site Laboratories": {},
+      "Third-Party Metallurgical / Assay Laboratories": {}
     }
   },
   "Burkina Faso": {
-    "By Raw Material Source": {
-      "Coal-Based Activated Carbon": {
-        "Bituminous Coal-Based": {},
-        "Lignite/Sub-Bituminous Coal-Based": {},
-        "Anthracite Coal-Based": {}
-      },
-      "Coconut Shell-Based Activated Carbon": {},
-      "Wood-Based Activated Carbon": {},
-      "Peat-Based Activated Carbon": {},
-      "Other Biomass-Based Activated Carbon (Bamboo-Based, etc.)": {}
+    "By Mercury Specification": {
+      "Sulphuric Acid (Hg <1 ppm)": {},
+      "Sulphuric Acid (Hg 1–5 ppm)": {},
+      "Precious Metals Refineries": {},
+      "Mine Site Laboratories": {},
+      "Third-Party Metallurgical / Assay Laboratories": {}
     },
-    "By Product Form": {
-      "Powdered Activated Carbon (PAC)": {},
-      "Granular Activated Carbon (GAC)": {},
-      "Extruded / Pelletized Activated Carbon (EAC)": {},
-      "Others (Bead / Spherical Activated Carbon, etc.)": {}
+    "By Concentration / Strength": {
+      "93–96% H2SO4": {},
+      "96–98% H2SO4": {},
+      "Other Specialty Strengths": {}
     },
-    "By Supply Type": {
-      "Virgin Activated Carbon": {},
-      "Reactivated / Regenerated Activated Carbon": {}
+    "By Application in Gold Mining Value Chain": {
+      "Cyanide Destruction / Caro's Acid Preparation": {},
+      "Precious Metals Refining / Affination": {},
+      "Metallurgical Laboratory & Testwork Use": {},
+      "Ancillary Process Use": {}
     },
-    "By Application": {
-      "Gold Mining": {
-        "Carbon-in-Leach (CIL)": {},
-        "Carbon-in-Pulp (CIP)": {},
-        "Carbon-in-Column (CIC)": {},
-        "Others": {}
-      },
-      "Water Treatment": {
-        "Potable / Drinking Water Treatment": {},
-        "Industrial Water Treatment": {},
-        "Wastewater / Effluent Treatment": {},
-        "Mine Water Treatment": {}
-      }
+    "By End User": {
+      "Gold Mining Companies": {},
+      "Gold Processing Plants": {},
+      "Precious Metals Refineries": {},
+      "Mine Site Laboratories": {},
+      "Third-Party Metallurgical / Assay Laboratories": {}
     }
   },
   "Tanzania": {
-    "By Raw Material Source": {
-      "Coal-Based Activated Carbon": {
-        "Bituminous Coal-Based": {},
-        "Lignite/Sub-Bituminous Coal-Based": {},
-        "Anthracite Coal-Based": {}
-      },
-      "Coconut Shell-Based Activated Carbon": {},
-      "Wood-Based Activated Carbon": {},
-      "Peat-Based Activated Carbon": {},
-      "Other Biomass-Based Activated Carbon (Bamboo-Based, etc.)": {}
+    "By Mercury Specification": {
+      "Sulphuric Acid (Hg <1 ppm)": {},
+      "Sulphuric Acid (Hg 1–5 ppm)": {},
+      "Precious Metals Refineries": {},
+      "Mine Site Laboratories": {},
+      "Third-Party Metallurgical / Assay Laboratories": {}
     },
-    "By Product Form": {
-      "Powdered Activated Carbon (PAC)": {},
-      "Granular Activated Carbon (GAC)": {},
-      "Extruded / Pelletized Activated Carbon (EAC)": {},
-      "Others (Bead / Spherical Activated Carbon, etc.)": {}
+    "By Concentration / Strength": {
+      "93–96% H2SO4": {},
+      "96–98% H2SO4": {},
+      "Other Specialty Strengths": {}
     },
-    "By Supply Type": {
-      "Virgin Activated Carbon": {},
-      "Reactivated / Regenerated Activated Carbon": {}
+    "By Application in Gold Mining Value Chain": {
+      "Cyanide Destruction / Caro's Acid Preparation": {},
+      "Precious Metals Refining / Affination": {},
+      "Metallurgical Laboratory & Testwork Use": {},
+      "Ancillary Process Use": {}
     },
-    "By Application": {
-      "Gold Mining": {
-        "Carbon-in-Leach (CIL)": {},
-        "Carbon-in-Pulp (CIP)": {},
-        "Carbon-in-Column (CIC)": {},
-        "Others": {}
-      },
-      "Water Treatment": {
-        "Potable / Drinking Water Treatment": {},
-        "Industrial Water Treatment": {},
-        "Wastewater / Effluent Treatment": {},
-        "Mine Water Treatment": {}
-      }
+    "By End User": {
+      "Gold Mining Companies": {},
+      "Gold Processing Plants": {},
+      "Precious Metals Refineries": {},
+      "Mine Site Laboratories": {},
+      "Third-Party Metallurgical / Assay Laboratories": {}
     }
   },
   "Côte d'Ivoire": {
-    "By Raw Material Source": {
-      "Coal-Based Activated Carbon": {
-        "Bituminous Coal-Based": {},
-        "Lignite/Sub-Bituminous Coal-Based": {},
-        "Anthracite Coal-Based": {}
-      },
-      "Coconut Shell-Based Activated Carbon": {},
-      "Wood-Based Activated Carbon": {},
-      "Peat-Based Activated Carbon": {},
-      "Other Biomass-Based Activated Carbon (Bamboo-Based, etc.)": {}
+    "By Mercury Specification": {
+      "Sulphuric Acid (Hg <1 ppm)": {},
+      "Sulphuric Acid (Hg 1–5 ppm)": {},
+      "Precious Metals Refineries": {},
+      "Mine Site Laboratories": {},
+      "Third-Party Metallurgical / Assay Laboratories": {}
     },
-    "By Product Form": {
-      "Powdered Activated Carbon (PAC)": {},
-      "Granular Activated Carbon (GAC)": {},
-      "Extruded / Pelletized Activated Carbon (EAC)": {},
-      "Others (Bead / Spherical Activated Carbon, etc.)": {}
+    "By Concentration / Strength": {
+      "93–96% H2SO4": {},
+      "96–98% H2SO4": {},
+      "Other Specialty Strengths": {}
     },
-    "By Supply Type": {
-      "Virgin Activated Carbon": {},
-      "Reactivated / Regenerated Activated Carbon": {}
+    "By Application in Gold Mining Value Chain": {
+      "Cyanide Destruction / Caro's Acid Preparation": {},
+      "Precious Metals Refining / Affination": {},
+      "Metallurgical Laboratory & Testwork Use": {},
+      "Ancillary Process Use": {}
     },
-    "By Application": {
-      "Gold Mining": {
-        "Carbon-in-Leach (CIL)": {},
-        "Carbon-in-Pulp (CIP)": {},
-        "Carbon-in-Column (CIC)": {},
-        "Others": {}
-      },
-      "Water Treatment": {
-        "Potable / Drinking Water Treatment": {},
-        "Industrial Water Treatment": {},
-        "Wastewater / Effluent Treatment": {},
-        "Mine Water Treatment": {}
-      }
+    "By End User": {
+      "Gold Mining Companies": {},
+      "Gold Processing Plants": {},
+      "Precious Metals Refineries": {},
+      "Mine Site Laboratories": {},
+      "Third-Party Metallurgical / Assay Laboratories": {}
     }
   },
   "Zimbabwe": {
-    "By Raw Material Source": {
-      "Coal-Based Activated Carbon": {
-        "Bituminous Coal-Based": {},
-        "Lignite/Sub-Bituminous Coal-Based": {},
-        "Anthracite Coal-Based": {}
-      },
-      "Coconut Shell-Based Activated Carbon": {},
-      "Wood-Based Activated Carbon": {},
-      "Peat-Based Activated Carbon": {},
-      "Other Biomass-Based Activated Carbon (Bamboo-Based, etc.)": {}
+    "By Mercury Specification": {
+      "Sulphuric Acid (Hg <1 ppm)": {},
+      "Sulphuric Acid (Hg 1–5 ppm)": {},
+      "Precious Metals Refineries": {},
+      "Mine Site Laboratories": {},
+      "Third-Party Metallurgical / Assay Laboratories": {}
     },
-    "By Product Form": {
-      "Powdered Activated Carbon (PAC)": {},
-      "Granular Activated Carbon (GAC)": {},
-      "Extruded / Pelletized Activated Carbon (EAC)": {},
-      "Others (Bead / Spherical Activated Carbon, etc.)": {}
+    "By Concentration / Strength": {
+      "93–96% H2SO4": {},
+      "96–98% H2SO4": {},
+      "Other Specialty Strengths": {}
     },
-    "By Supply Type": {
-      "Virgin Activated Carbon": {},
-      "Reactivated / Regenerated Activated Carbon": {}
+    "By Application in Gold Mining Value Chain": {
+      "Cyanide Destruction / Caro's Acid Preparation": {},
+      "Precious Metals Refining / Affination": {},
+      "Metallurgical Laboratory & Testwork Use": {},
+      "Ancillary Process Use": {}
     },
-    "By Application": {
-      "Gold Mining": {
-        "Carbon-in-Leach (CIL)": {},
-        "Carbon-in-Pulp (CIP)": {},
-        "Carbon-in-Column (CIC)": {},
-        "Others": {}
-      },
-      "Water Treatment": {
-        "Potable / Drinking Water Treatment": {},
-        "Industrial Water Treatment": {},
-        "Wastewater / Effluent Treatment": {},
-        "Mine Water Treatment": {}
-      }
+    "By End User": {
+      "Gold Mining Companies": {},
+      "Gold Processing Plants": {},
+      "Precious Metals Refineries": {},
+      "Mine Site Laboratories": {},
+      "Third-Party Metallurgical / Assay Laboratories": {}
     }
   },
   "Democratic Republic of the Congo": {
-    "By Raw Material Source": {
-      "Coal-Based Activated Carbon": {
-        "Bituminous Coal-Based": {},
-        "Lignite/Sub-Bituminous Coal-Based": {},
-        "Anthracite Coal-Based": {}
-      },
-      "Coconut Shell-Based Activated Carbon": {},
-      "Wood-Based Activated Carbon": {},
-      "Peat-Based Activated Carbon": {},
-      "Other Biomass-Based Activated Carbon (Bamboo-Based, etc.)": {}
+    "By Mercury Specification": {
+      "Sulphuric Acid (Hg <1 ppm)": {},
+      "Sulphuric Acid (Hg 1–5 ppm)": {},
+      "Precious Metals Refineries": {},
+      "Mine Site Laboratories": {},
+      "Third-Party Metallurgical / Assay Laboratories": {}
     },
-    "By Product Form": {
-      "Powdered Activated Carbon (PAC)": {},
-      "Granular Activated Carbon (GAC)": {},
-      "Extruded / Pelletized Activated Carbon (EAC)": {},
-      "Others (Bead / Spherical Activated Carbon, etc.)": {}
+    "By Concentration / Strength": {
+      "93–96% H2SO4": {},
+      "96–98% H2SO4": {},
+      "Other Specialty Strengths": {}
     },
-    "By Supply Type": {
-      "Virgin Activated Carbon": {},
-      "Reactivated / Regenerated Activated Carbon": {}
+    "By Application in Gold Mining Value Chain": {
+      "Cyanide Destruction / Caro's Acid Preparation": {},
+      "Precious Metals Refining / Affination": {},
+      "Metallurgical Laboratory & Testwork Use": {},
+      "Ancillary Process Use": {}
     },
-    "By Application": {
-      "Gold Mining": {
-        "Carbon-in-Leach (CIL)": {},
-        "Carbon-in-Pulp (CIP)": {},
-        "Carbon-in-Column (CIC)": {},
-        "Others": {}
-      },
-      "Water Treatment": {
-        "Potable / Drinking Water Treatment": {},
-        "Industrial Water Treatment": {},
-        "Wastewater / Effluent Treatment": {},
-        "Mine Water Treatment": {}
-      }
+    "By End User": {
+      "Gold Mining Companies": {},
+      "Gold Processing Plants": {},
+      "Precious Metals Refineries": {},
+      "Mine Site Laboratories": {},
+      "Third-Party Metallurgical / Assay Laboratories": {}
     }
   },
   "Guinea": {
-    "By Raw Material Source": {
-      "Coal-Based Activated Carbon": {
-        "Bituminous Coal-Based": {},
-        "Lignite/Sub-Bituminous Coal-Based": {},
-        "Anthracite Coal-Based": {}
-      },
-      "Coconut Shell-Based Activated Carbon": {},
-      "Wood-Based Activated Carbon": {},
-      "Peat-Based Activated Carbon": {},
-      "Other Biomass-Based Activated Carbon (Bamboo-Based, etc.)": {}
+    "By Mercury Specification": {
+      "Sulphuric Acid (Hg <1 ppm)": {},
+      "Sulphuric Acid (Hg 1–5 ppm)": {},
+      "Precious Metals Refineries": {},
+      "Mine Site Laboratories": {},
+      "Third-Party Metallurgical / Assay Laboratories": {}
     },
-    "By Product Form": {
-      "Powdered Activated Carbon (PAC)": {},
-      "Granular Activated Carbon (GAC)": {},
-      "Extruded / Pelletized Activated Carbon (EAC)": {},
-      "Others (Bead / Spherical Activated Carbon, etc.)": {}
+    "By Concentration / Strength": {
+      "93–96% H2SO4": {},
+      "96–98% H2SO4": {},
+      "Other Specialty Strengths": {}
     },
-    "By Supply Type": {
-      "Virgin Activated Carbon": {},
-      "Reactivated / Regenerated Activated Carbon": {}
+    "By Application in Gold Mining Value Chain": {
+      "Cyanide Destruction / Caro's Acid Preparation": {},
+      "Precious Metals Refining / Affination": {},
+      "Metallurgical Laboratory & Testwork Use": {},
+      "Ancillary Process Use": {}
     },
-    "By Application": {
-      "Gold Mining": {
-        "Carbon-in-Leach (CIL)": {},
-        "Carbon-in-Pulp (CIP)": {},
-        "Carbon-in-Column (CIC)": {},
-        "Others": {}
-      },
-      "Water Treatment": {
-        "Potable / Drinking Water Treatment": {},
-        "Industrial Water Treatment": {},
-        "Wastewater / Effluent Treatment": {},
-        "Mine Water Treatment": {}
-      }
+    "By End User": {
+      "Gold Mining Companies": {},
+      "Gold Processing Plants": {},
+      "Precious Metals Refineries": {},
+      "Mine Site Laboratories": {},
+      "Third-Party Metallurgical / Assay Laboratories": {}
     }
   },
   "Sudan": {
-    "By Raw Material Source": {
-      "Coal-Based Activated Carbon": {
-        "Bituminous Coal-Based": {},
-        "Lignite/Sub-Bituminous Coal-Based": {},
-        "Anthracite Coal-Based": {}
-      },
-      "Coconut Shell-Based Activated Carbon": {},
-      "Wood-Based Activated Carbon": {},
-      "Peat-Based Activated Carbon": {},
-      "Other Biomass-Based Activated Carbon (Bamboo-Based, etc.)": {}
+    "By Mercury Specification": {
+      "Sulphuric Acid (Hg <1 ppm)": {},
+      "Sulphuric Acid (Hg 1–5 ppm)": {},
+      "Precious Metals Refineries": {},
+      "Mine Site Laboratories": {},
+      "Third-Party Metallurgical / Assay Laboratories": {}
     },
-    "By Product Form": {
-      "Powdered Activated Carbon (PAC)": {},
-      "Granular Activated Carbon (GAC)": {},
-      "Extruded / Pelletized Activated Carbon (EAC)": {},
-      "Others (Bead / Spherical Activated Carbon, etc.)": {}
+    "By Concentration / Strength": {
+      "93–96% H2SO4": {},
+      "96–98% H2SO4": {},
+      "Other Specialty Strengths": {}
     },
-    "By Supply Type": {
-      "Virgin Activated Carbon": {},
-      "Reactivated / Regenerated Activated Carbon": {}
+    "By Application in Gold Mining Value Chain": {
+      "Cyanide Destruction / Caro's Acid Preparation": {},
+      "Precious Metals Refining / Affination": {},
+      "Metallurgical Laboratory & Testwork Use": {},
+      "Ancillary Process Use": {}
     },
-    "By Application": {
-      "Gold Mining": {
-        "Carbon-in-Leach (CIL)": {},
-        "Carbon-in-Pulp (CIP)": {},
-        "Carbon-in-Column (CIC)": {},
-        "Others": {}
-      },
-      "Water Treatment": {
-        "Potable / Drinking Water Treatment": {},
-        "Industrial Water Treatment": {},
-        "Wastewater / Effluent Treatment": {},
-        "Mine Water Treatment": {}
-      }
+    "By End User": {
+      "Gold Mining Companies": {},
+      "Gold Processing Plants": {},
+      "Precious Metals Refineries": {},
+      "Mine Site Laboratories": {},
+      "Third-Party Metallurgical / Assay Laboratories": {}
     }
   },
   "Russia": {
-    "By Raw Material Source": {
-      "Coal-Based Activated Carbon": {
-        "Bituminous Coal-Based": {},
-        "Lignite/Sub-Bituminous Coal-Based": {},
-        "Anthracite Coal-Based": {}
-      },
-      "Coconut Shell-Based Activated Carbon": {},
-      "Wood-Based Activated Carbon": {},
-      "Peat-Based Activated Carbon": {},
-      "Other Biomass-Based Activated Carbon (Bamboo-Based, etc.)": {}
+    "By Mercury Specification": {
+      "Sulphuric Acid (Hg <1 ppm)": {},
+      "Sulphuric Acid (Hg 1–5 ppm)": {},
+      "Precious Metals Refineries": {},
+      "Mine Site Laboratories": {},
+      "Third-Party Metallurgical / Assay Laboratories": {}
     },
-    "By Product Form": {
-      "Powdered Activated Carbon (PAC)": {},
-      "Granular Activated Carbon (GAC)": {},
-      "Extruded / Pelletized Activated Carbon (EAC)": {},
-      "Others (Bead / Spherical Activated Carbon, etc.)": {}
+    "By Concentration / Strength": {
+      "93–96% H2SO4": {},
+      "96–98% H2SO4": {},
+      "Other Specialty Strengths": {}
     },
-    "By Supply Type": {
-      "Virgin Activated Carbon": {},
-      "Reactivated / Regenerated Activated Carbon": {}
+    "By Application in Gold Mining Value Chain": {
+      "Cyanide Destruction / Caro's Acid Preparation": {},
+      "Precious Metals Refining / Affination": {},
+      "Metallurgical Laboratory & Testwork Use": {},
+      "Ancillary Process Use": {}
     },
-    "By Application": {
-      "Gold Mining": {
-        "Carbon-in-Leach (CIL)": {},
-        "Carbon-in-Pulp (CIP)": {},
-        "Carbon-in-Column (CIC)": {},
-        "Others": {}
-      },
-      "Water Treatment": {
-        "Potable / Drinking Water Treatment": {},
-        "Industrial Water Treatment": {},
-        "Wastewater / Effluent Treatment": {},
-        "Mine Water Treatment": {}
-      }
+    "By End User": {
+      "Gold Mining Companies": {},
+      "Gold Processing Plants": {},
+      "Precious Metals Refineries": {},
+      "Mine Site Laboratories": {},
+      "Third-Party Metallurgical / Assay Laboratories": {}
     }
   },
   "Australia": {
-    "By Raw Material Source": {
-      "Coal-Based Activated Carbon": {
-        "Bituminous Coal-Based": {},
-        "Lignite/Sub-Bituminous Coal-Based": {},
-        "Anthracite Coal-Based": {}
-      },
-      "Coconut Shell-Based Activated Carbon": {},
-      "Wood-Based Activated Carbon": {},
-      "Peat-Based Activated Carbon": {},
-      "Other Biomass-Based Activated Carbon (Bamboo-Based, etc.)": {}
+    "By Mercury Specification": {
+      "Sulphuric Acid (Hg <1 ppm)": {},
+      "Sulphuric Acid (Hg 1–5 ppm)": {},
+      "Precious Metals Refineries": {},
+      "Mine Site Laboratories": {},
+      "Third-Party Metallurgical / Assay Laboratories": {}
     },
-    "By Product Form": {
-      "Powdered Activated Carbon (PAC)": {},
-      "Granular Activated Carbon (GAC)": {},
-      "Extruded / Pelletized Activated Carbon (EAC)": {},
-      "Others (Bead / Spherical Activated Carbon, etc.)": {}
+    "By Concentration / Strength": {
+      "93–96% H2SO4": {},
+      "96–98% H2SO4": {},
+      "Other Specialty Strengths": {}
     },
-    "By Supply Type": {
-      "Virgin Activated Carbon": {},
-      "Reactivated / Regenerated Activated Carbon": {}
+    "By Application in Gold Mining Value Chain": {
+      "Cyanide Destruction / Caro's Acid Preparation": {},
+      "Precious Metals Refining / Affination": {},
+      "Metallurgical Laboratory & Testwork Use": {},
+      "Ancillary Process Use": {}
     },
-    "By Application": {
-      "Gold Mining": {
-        "Carbon-in-Leach (CIL)": {},
-        "Carbon-in-Pulp (CIP)": {},
-        "Carbon-in-Column (CIC)": {},
-        "Others": {}
-      },
-      "Water Treatment": {
-        "Potable / Drinking Water Treatment": {},
-        "Industrial Water Treatment": {},
-        "Wastewater / Effluent Treatment": {},
-        "Mine Water Treatment": {}
-      }
+    "By End User": {
+      "Gold Mining Companies": {},
+      "Gold Processing Plants": {},
+      "Precious Metals Refineries": {},
+      "Mine Site Laboratories": {},
+      "Third-Party Metallurgical / Assay Laboratories": {}
     }
   }
 }
