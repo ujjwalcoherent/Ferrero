@@ -298,5 +298,30 @@
       "DMS / Mineral Processing Plants": {},
       "Others (Contract Processing Operators, etc.)": {}
     }
+  },
+  "Mauritania": {
+    "By Form": {
+      "Atomized Ferro Silicon": {},
+      "Milled Ferro Silicon": {},
+      "Powdered Ferro Silicon": {},
+      "Granular Ferro Silicon": {}
+    },
+    "By Grade": {
+      "FeSi 15% Silicon (Standard DMS Grade)": {},
+      "FeSi 45-75% Silicon": {},
+      "Low Silicon Ferro Silicon": {},
+      "High-Purity / Specialty Ferro Silicon": {}
+    },
+    "By Application in Gold Mining": {
+      "Dense Media Separation Medium": {},
+      "Ore Pre-Concentration": {},
+      "Gangue Rejection Before Grinding": {},
+      "Feed Upgrading for Downstream Recovery": {}
+    },
+    "By End User": {
+      "Gold Mining Companies": {},
+      "DMS / Mineral Processing Plants": {},
+      "Others (Contract Processing Operators, etc.)": {}
+    }
   }
 }
